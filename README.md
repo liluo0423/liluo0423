@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liluo0423
 - 👀 I’m interested in research
-- 🌱 I’m currently a Ph.D. Candidate in UniSA
+- 🌱 I’m currently a Postdoc Research Fellow in UoA
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me ...
 
